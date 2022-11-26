@@ -62,13 +62,13 @@ const config = {
   education: [
     {
       institutions: 'Lakandula High School',
-      Grade Level and Section: '10-2',
+      Grade and Section: '10-2',
       from: '2022',
       to: '2023',
     },
     {
       institution: 'Lakandula High School',
-      Grade level and section: '10-2',
+      Grade and section: '10-2',
       from: '2022',
       to: '2023',
     },
