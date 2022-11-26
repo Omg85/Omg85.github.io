@@ -13,8 +13,8 @@ const config = {
   social: {
     linkedin: '',
     twitter: '',
-    facebook: 'Emmanuel C. Brieta',
-    instagram: '',
+    facebook: 'https://m.me/spikie.0715',
+    discord: 'Hai#9471',
     dribbble: '',
     behance: '',
     medium: '',
@@ -76,7 +76,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
-    username: 'Emmanjel', // to hide blog section, keep it empty
+    username: 'Emmanuel', // to hide blog section, keep it empty
     limit: 3, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
